@@ -1,0 +1,14 @@
+C:\Users\Zola\Desktop\Поведенческие паттерны проектирования. Наблюдатель, Стратегия, Шаблонный метод\MonitoringSystem\bin\Debug\net8.0\MonitoringSystem.exe
+C:\Users\Zola\Desktop\Поведенческие паттерны проектирования. Наблюдатель, Стратегия, Шаблонный метод\MonitoringSystem\bin\Debug\net8.0\MonitoringSystem.deps.json
+C:\Users\Zola\Desktop\Поведенческие паттерны проектирования. Наблюдатель, Стратегия, Шаблонный метод\MonitoringSystem\bin\Debug\net8.0\MonitoringSystem.runtimeconfig.json
+C:\Users\Zola\Desktop\Поведенческие паттерны проектирования. Наблюдатель, Стратегия, Шаблонный метод\MonitoringSystem\bin\Debug\net8.0\MonitoringSystem.dll
+C:\Users\Zola\Desktop\Поведенческие паттерны проектирования. Наблюдатель, Стратегия, Шаблонный метод\MonitoringSystem\bin\Debug\net8.0\MonitoringSystem.pdb
+C:\Users\Zola\Desktop\Поведенческие паттерны проектирования. Наблюдатель, Стратегия, Шаблонный метод\MonitoringSystem\obj\Debug\net8.0\MonitoringSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Zola\Desktop\Поведенческие паттерны проектирования. Наблюдатель, Стратегия, Шаблонный метод\MonitoringSystem\obj\Debug\net8.0\MonitoringSystem.AssemblyInfoInputs.cache
+C:\Users\Zola\Desktop\Поведенческие паттерны проектирования. Наблюдатель, Стратегия, Шаблонный метод\MonitoringSystem\obj\Debug\net8.0\MonitoringSystem.AssemblyInfo.cs
+C:\Users\Zola\Desktop\Поведенческие паттерны проектирования. Наблюдатель, Стратегия, Шаблонный метод\MonitoringSystem\obj\Debug\net8.0\MonitoringSystem.csproj.CoreCompileInputs.cache
+C:\Users\Zola\Desktop\Поведенческие паттерны проектирования. Наблюдатель, Стратегия, Шаблонный метод\MonitoringSystem\obj\Debug\net8.0\MonitoringSystem.dll
+C:\Users\Zola\Desktop\Поведенческие паттерны проектирования. Наблюдатель, Стратегия, Шаблонный метод\MonitoringSystem\obj\Debug\net8.0\refint\MonitoringSystem.dll
+C:\Users\Zola\Desktop\Поведенческие паттерны проектирования. Наблюдатель, Стратегия, Шаблонный метод\MonitoringSystem\obj\Debug\net8.0\MonitoringSystem.pdb
+C:\Users\Zola\Desktop\Поведенческие паттерны проектирования. Наблюдатель, Стратегия, Шаблонный метод\MonitoringSystem\obj\Debug\net8.0\MonitoringSystem.genruntimeconfig.cache
+C:\Users\Zola\Desktop\Поведенческие паттерны проектирования. Наблюдатель, Стратегия, Шаблонный метод\MonitoringSystem\obj\Debug\net8.0\ref\MonitoringSystem.dll
